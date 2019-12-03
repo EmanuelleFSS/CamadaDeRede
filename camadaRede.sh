@@ -1,10 +1,6 @@
 #!/bin/bash
 #Camada de Rede
 
-func(){
-	echo $1;
-}
-
 redeTop="/home/emanuelle/Documentos/Redes/camadaRede/redeTop.txt"
 redeDown="/home/emanuelle/Documentos/Redes/camadaRede/redeDown.txt"
 redeTopResp="/home/emanuelle/Documentos/Redes/camadaRede/redeTopResp.txt"
