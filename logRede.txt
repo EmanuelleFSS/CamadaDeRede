@@ -1,0 +1,6 @@
+ ter 03 dez 2019 02:16:31 -03 Recebendo da camada de transporte.
+ ter 03 dez 2019 02:16:31 -03 Verificando a tabela de roteamento.
+ ter 03 dez 2019 02:16:31 -03 Transmitindo para a camada física.
+ ter 03 dez 2019 02:21:50 -03 Recebendo da camada física.
+ ter 03 dez 2019 02:21:50 -03 Verificando a tabela de roteamento.
+ ter 03 dez 2019 02:21:50 -03 Transmitindo para a camada de transporte.
